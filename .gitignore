@@ -1,2 +1,4 @@
 .idea/
 venv/
+example/
+__pycache__/
